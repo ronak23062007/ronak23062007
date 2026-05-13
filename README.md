@@ -4,7 +4,7 @@
 
 ### Pentester | Jhajjar, Haryana
 
-Ethical hacker on the road, lifting firewalls, logging miles, and fine‑tuning AI. Code‑first, safety‑first, always moving.
+I'm an ethical hacker on a mission to outsmart firewalls and explore the digital frontier. With a code-first mindset, I’m all about securing the cyber world while logging miles on my travels.
 
 </div>
 
@@ -12,7 +12,7 @@ Ethical hacker on the road, lifting firewalls, logging miles, and fine‑tuning 
 
 ### 💻 Tech Stack
 
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/c-333?style=for-the-badge&logo=c&logoColor=white) ![pentester](https://img.shields.io/badge/pentester-333?style=for-the-badge&logo=pentester&logoColor=white) ![AI](https://img.shields.io/badge/AI-333?style=for-the-badge&logo=ai&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-333?style=for-the-badge&logo=pentesting&logoColor=white) ![ethical hacking](https://img.shields.io/badge/ethical%20hacking-333?style=for-the-badge&logo=ethicalhacking&logoColor=white) ![cyber security](https://img.shields.io/badge/cyber%20security-333?style=for-the-badge&logo=cybersecurity&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/c-333?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -26,7 +26,9 @@ Ethical hacker on the road, lifting firewalls, logging miles, and fine‑tuning 
 
 ### 🌱 Currently
 
-- 💬 Ask me about: **pentesting**
+- 📚 Learning: **I'm diving into advanced AI applications in cyber security to stay ahead of the curve.**
+- 🤝 Open to collaborate on: **I'm eager to collaborate on security assessments, vulnerability research, or any projects that push the boundaries of ethical hacking.**
+- 💬 Ask me about: **pentesting, AI in cyber security, travel tips for tech enthusiasts**
 
 ---
 
@@ -46,7 +48,7 @@ Ethical hacker on the road, lifting firewalls, logging miles, and fine‑tuning 
 
 <div align="center">
 
-⚡ I love Travelling 
+⚡ I’m an avid traveler who loves exploring new cultures and cuisines, always looking for my next adventure!
 
 </div>
 
