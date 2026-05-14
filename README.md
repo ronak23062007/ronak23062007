@@ -41,13 +41,13 @@ I'm an ethical hacker on a mission to outsmart firewalls and explore the digital
 
 
 
-
+---
 
 <div align="center">
 
 ⚡ I’m an avid traveler who loves exploring new cultures and cuisines, always looking for my next adventure!
 
----
+
 
 </div>
 
